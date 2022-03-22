@@ -19,4 +19,4 @@ public bool ProgressBar.ChangePercentageValue(int NewPercentageValue)
 2: You can also increment the value  
 public bool ProgressBar.IncreaseProgress(int amount)  
   
-Those both return boolean values stating wether or not it's at 100%  
+Those both return boolean values stating whether or not it's at 100%  
